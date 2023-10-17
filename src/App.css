@@ -1,8 +1,8 @@
 .app {
-  --bg-color-1: #9db3ed;
-  --bg-color-2: #f9f9f9;
+  --bg-color-1: #151b70be;
+  --bg-color-2: #000000cb;
   --text-color-1: #0b1537;
-  --text-color-2: #636363;
+  --text-color-2: #c8c8c8c3;
 }
 
 .app[data-theme="dark"] {
@@ -29,7 +29,7 @@
 }
 
 .app {
-  background: #2a6c84;
+  background: linear-gradient(277deg, rgba(2,0,36,1) 0%, rgba(73,172,57,1) 0%, rgba(0,237,255,1) 100%);
   min-height: 100vh;
   display: flex;
   justify-content: center;
